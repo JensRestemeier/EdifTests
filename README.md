@@ -33,3 +33,5 @@ optional arguments:
   --view           launch viewer
   --format FORMAT  output format
 ```
+
+![Minimal Netlist](./minimal.gv.svg)
