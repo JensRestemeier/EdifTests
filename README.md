@@ -4,13 +4,13 @@ These are a few tests using [SpyDrNet](https://github.com/byuccl/spydrnet) libra
 
 ## Minimal
 
-`minimal.py` is a simple test program to implement the example netlist from https://byuccl.github.io/spydrnet/docs/stable/reference/classes/index.html
+`minimal.py` is a simple test program to implement the (example netlist)[https://byuccl.github.io/spydrnet/docs/stable/reference/classes/index.html] from the SpyDrNet documentation.
 
 ```python minimal.py```
 
 This will produce 'minimal.edf'.
 
-### Edit2Dot
+### Edif2Dot
 
 `edif2dot.py` will convert an edif netlist into a graphviz diagram. This will require both the graphviz [python bindings](https://pypi.org/project/graphviz/) and the [graphviz](https://www.graphviz.org/) runtime.
 
