@@ -4,7 +4,7 @@ These are a few tests using [SpyDrNet](https://github.com/byuccl/spydrnet) libra
 
 ## Minimal
 
-`minimal.py` is a simple test program to implement the (example netlist)[https://byuccl.github.io/spydrnet/docs/stable/reference/classes/index.html] from the SpyDrNet documentation.
+`minimal.py` is a simple test program to implement the [example netlist](https://byuccl.github.io/spydrnet/docs/stable/reference/classes/index.html) from the SpyDrNet documentation.
 
 ```python minimal.py```
 
